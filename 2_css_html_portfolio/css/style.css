@@ -8,12 +8,20 @@ h1{
   font-size: 5.625rem;
   color: #66BFBF;
 }
+.bottomContainer{
+  background-color:#66BFBF;
+  padding:50px 0px 20px 0px;
+}
+p{
+  line-height: 2;
+}
 h2{
   margin : 0 auto 50px auto;
   font-size:1.5rem;
   color: #66BFBF;
   font-weight: normal;
   line-height: 1rem;
+  padding-bottom: 10px;
 }
 .skill-row{
   margin: 100px auto 100px auto;
@@ -36,11 +44,6 @@ h2{
   width: 200px;
   height: 200px;
 }
-.bottomContainer{
-  background-color: blue;
-  width:200px;
-  height:200px;
-}
 .pro{
   text-decoration: underline;
   font-size: 2.5rem;
@@ -49,6 +52,7 @@ body{
   margin: 0;
   text-align: center;
   font-family: ubuntu, monospace;
+  color: #40514E;
 }
 .bottomCloud{
   position: absolute;
